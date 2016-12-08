@@ -443,7 +443,7 @@ $(document).ready(function () {
 
         $.cookie("colour-scheme", id);
 
-        $(style).attr('href', 'assets/css/colour-scheme/' + id + '.css');
+        $(style).attr('href', 'http://ukieweb.com/envato/ukiecard/style1/assets/css/colour-scheme/' + id + '.css');
         $(style).attr('data-color', colour_scheme);
         $.cookie("colour-skills", $(this).attr('data-color'));
     });
