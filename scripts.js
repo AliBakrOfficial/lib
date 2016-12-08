@@ -483,7 +483,7 @@ $(document).ready(function () {
     var box_shadow = $.cookie("box-shadow");
 
     if (colour_scheme != "" && colour_scheme != undefined) {
-        $(style).attr('href', 'assets/css/colour-scheme/' + colour_scheme + '.css');
+        $(style).attr('href', 'http://ukieweb.com/envato/ukiecard/style1/assets/css/colour-scheme/' + colour_scheme + '.css');
         $(style).attr('data-color', colour_scheme);
     } else {
         $.cookie("colour-scheme", "color-blue");
