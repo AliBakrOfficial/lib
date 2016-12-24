@@ -3,11 +3,11 @@
 /* Black */
 @font-face {
     font-family: "Sukar Black";
-    src: url('font/Sukar-Black.eot');
-    src: url('font/Sukar-Black.eot?#iefix') format('embedded-opentype'),
-    url('font/Sukar-Black.svg#Sukar-Black') format('svg'),
-    url('font/Sukar-Black.woff') format('woff'),
-    url('font/Sukar-Black.ttf') format('truetype');
+    src: url('/Sukar-Black.eot');
+    src: url('/Sukar-Black.eot?#iefix') format('embedded-opentype'),
+    url('/Sukar-Black.svg#Sukar-Black') format('svg'),
+    url('/Sukar-Black.woff') format('woff'),
+    url('/Sukar-Black.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
