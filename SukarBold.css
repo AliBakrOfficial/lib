@@ -3,11 +3,11 @@
 /* Bold */
 @font-face {
     font-family: "Sukar Bold";
-    src: url('/../Sukar-Bold.eot');
-    src: url('/../Sukar-Bold.eot?#iefix') format('embedded-opentype'),
-    url('/../Sukar-Bold.svg#Sukar-Bold') format('svg'),
-    url('/../Sukar-Bold.woff') format('woff'),
-    url('/../Sukar-Bold.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/AliBakrOfficial/lib/fonts/Sukar-Bold.eot');
+    src: url('https://cdn.rawgit.com/AliBakrOfficial/lib/fonts/Sukar-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.rawgit.com/AliBakrOfficial/lib/fonts/Sukar-Bold.svg#Sukar-Bold') format('svg'),
+    url('https://cdn.rawgit.com/AliBakrOfficial/lib/fonts/Sukar-Bold.woff') format('woff'),
+    url('https://cdn.rawgit.com/AliBakrOfficial/lib/fonts/Sukar-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
