@@ -92,7 +92,7 @@ function loadtoc(json) {
             var pll = '';
             if ("category" in entry) {
                for (var k = 0; k < entry.category.length; k++) {
-                  pll += '<a href="javascript:filterPosts(\'' + entry.category[k].term + '\');" title=" انقر هنا لتحديد كافة المشاركات في قسم \'' + entry.category[k].term + '\'">' + entry.category[k].term + '</a>,  ';
+                  pll += '<a href="javascript:filterPosts(\'' + entry.category[k].term + '\');" title=" انقر هنا لتحديد كافة الالعاب في قسم \'' + entry.category[k].term + '\'">' + entry.category[k].term + '</a>,  ';
                }
             var l = pll.lastIndexOf(',');
             if (l != -1) { pll = pll.substring(0,l); }
