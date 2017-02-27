@@ -1,4 +1,4 @@
-if (window.location.hostname = "www.w3schools.com") {
+if (window.location.hostname = "www.m3loma.org") {
 $('head').append('
 <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#62b712" />
